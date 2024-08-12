@@ -2,6 +2,11 @@
 .App {
   text-align: center;
   margin: 20px;
+  background-image: url("/src/Raya.jpeg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 1788px;
+
 }
 
 button {
